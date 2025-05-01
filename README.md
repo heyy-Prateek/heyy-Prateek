@@ -17,7 +17,7 @@ A fully modular, C++-based SCF solver supporting RHF/UHF. Built from scratch —
 
 🧪 **Chemical Engineering Lab Simulator**  
 Streamlit-based platform to simulate experiments with AI assistant, auto quiz/report generation.  
-[🔗 View Project](https://github.com/heyy-Prateek/chem-lab-sim) | `Python` `Streamlit` `LLMs` `EdTech`
+[🔗 View Project](https://github.com/heyy-Prateek/Lab-Protocol-Simulator) | `Python` `Streamlit` `LLMs` `EdTech`
 
 🌱 **Sustainable Bioplastics Research**  
 Studying biodegradable alternatives to petroleum-based plastics using agro waste & additives.  
@@ -25,7 +25,7 @@ Studying biodegradable alternatives to petroleum-based plastics using agro waste
 
 🌐 **Personal Portfolio Website**  
 A sleek, custom-built portfolio showcasing my work, background, and vision.  
-[🔗 View GitHub](https://github.com/heyy-Prateek/portfolio-website) | [🔗 Visit Site](https://prateeksaxena.dev) | `HTML` `CSS` `JavaScript`
+[🔗 View GitHub](https://github.com/heyy-Prateek/portfolio-website)  | `HTML` `CSS` `JavaScript`
 
 ---
 

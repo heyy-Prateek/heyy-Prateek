@@ -52,7 +52,7 @@ A sleek, custom-built portfolio showcasing my work, background, and vision.
 📧 Email: f20212756@pilani.bits-pilani.ac.in  
 🔗 [GitHub](https://github.com/heyy-Prateek)  
 🔗 [LinkedIn](https://www.linkedin.com/in/prateek-saxena-35845219a/)  
-🌐 [Portfolio Website] Coming soon!! 
+🌐 [Portfolio Website] (https://heyy-prateek.vercel.app/ ) !! 
 
 ---
 
